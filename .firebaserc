@@ -1,5 +1,5 @@
 {
   "projects": {
-    "default": "p3-vintager-admin"
+    "default": "vintager-store-client"
   }
 }
